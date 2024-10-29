@@ -1,0 +1,368 @@
+{
+    "golsContra": [
+        {
+            "time": "Ituano",
+            "totalJogos": 34.0,
+            "golsSofrigos": 54,
+            "media": 1.588235294117647
+        },
+        {
+            "time": "Guarani",
+            "totalJogos": 33.0,
+            "golsSofrigos": 45,
+            "media": 1.3636363636363635
+        },
+        {
+            "time": "Ponte Preta",
+            "totalJogos": 34.0,
+            "golsSofrigos": 44,
+            "media": 1.2941176470588236
+        },
+        {
+            "time": "Vila Nova",
+            "totalJogos": 34.0,
+            "golsSofrigos": 44,
+            "media": 1.2941176470588236
+        },
+        {
+            "time": "CRB",
+            "totalJogos": 34.0,
+            "golsSofrigos": 42,
+            "media": 1.2352941176470589
+        },
+        {
+            "time": "Botafogo (SP)",
+            "totalJogos": 33.0,
+            "golsSofrigos": 41,
+            "media": 1.2424242424242424
+        },
+        {
+            "time": "Cear\u00e1",
+            "totalJogos": 34.0,
+            "golsSofrigos": 40,
+            "media": 1.1764705882352942
+        },
+        {
+            "time": "Chapecoense",
+            "totalJogos": 33.0,
+            "golsSofrigos": 40,
+            "media": 1.2121212121212122
+        },
+        {
+            "time": "Paysandu",
+            "totalJogos": 34.0,
+            "golsSofrigos": 40,
+            "media": 1.1764705882352942
+        },
+        {
+            "time": "Brusque Futebol Clube",
+            "totalJogos": 33.0,
+            "golsSofrigos": 37,
+            "media": 1.121212121212121
+        },
+        {
+            "time": "Coritiba",
+            "totalJogos": 34.0,
+            "golsSofrigos": 33,
+            "media": 0.9705882352941176
+        },
+        {
+            "time": "Sport Recife",
+            "totalJogos": 34.0,
+            "golsSofrigos": 33,
+            "media": 0.9705882352941176
+        },
+        {
+            "time": "Amazonas FC",
+            "totalJogos": 33.0,
+            "golsSofrigos": 32,
+            "media": 0.9696969696969697
+        },
+        {
+            "time": "Goi\u00e1s",
+            "totalJogos": 33.0,
+            "golsSofrigos": 32,
+            "media": 0.9696969696969697
+        },
+        {
+            "time": "Am\u00e9rica (MG)",
+            "totalJogos": 34.0,
+            "golsSofrigos": 31,
+            "media": 0.9117647058823529
+        },
+        {
+            "time": "Ava\u00ed",
+            "totalJogos": 34.0,
+            "golsSofrigos": 28,
+            "media": 0.8235294117647058
+        },
+        {
+            "time": "Gr\u00eamio Novorizontino",
+            "totalJogos": 33.0,
+            "golsSofrigos": 28,
+            "media": 0.8484848484848485
+        },
+        {
+            "time": "Santos",
+            "totalJogos": 34.0,
+            "golsSofrigos": 28,
+            "media": 0.8235294117647058
+        },
+        {
+            "time": "Oper\u00e1rio",
+            "totalJogos": 33.0,
+            "golsSofrigos": 26,
+            "media": 0.7878787878787878
+        },
+        {
+            "time": "Mirassol Futebol Clube",
+            "totalJogos": 34.0,
+            "golsSofrigos": 24,
+            "media": 0.7058823529411765
+        }
+    ],
+    "jogosSemSofrerGols": [
+        {
+            "time": "Mirassol Futebol Clube",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 21,
+            "media": 61.76470588235294
+        },
+        {
+            "time": "Oper\u00e1rio",
+            "totalJogos": 33.0,
+            "jogosSemSofrerGols": 16,
+            "media": 48.484848484848484
+        },
+        {
+            "time": "Santos",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 16,
+            "media": 47.05882352941176
+        },
+        {
+            "time": "Ava\u00ed",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 14,
+            "media": 41.17647058823529
+        },
+        {
+            "time": "Amazonas FC",
+            "totalJogos": 33.0,
+            "jogosSemSofrerGols": 12,
+            "media": 36.36363636363637
+        },
+        {
+            "time": "Brusque Futebol Clube",
+            "totalJogos": 33.0,
+            "jogosSemSofrerGols": 12,
+            "media": 36.36363636363637
+        },
+        {
+            "time": "Coritiba",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 12,
+            "media": 35.294117647058826
+        },
+        {
+            "time": "Gr\u00eamio Novorizontino",
+            "totalJogos": 33.0,
+            "jogosSemSofrerGols": 12,
+            "media": 36.36363636363637
+        },
+        {
+            "time": "Am\u00e9rica (MG)",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 11,
+            "media": 32.35294117647059
+        },
+        {
+            "time": "Sport Recife",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 11,
+            "media": 32.35294117647059
+        },
+        {
+            "time": "Cear\u00e1",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 10,
+            "media": 29.411764705882355
+        },
+        {
+            "time": "Chapecoense",
+            "totalJogos": 33.0,
+            "jogosSemSofrerGols": 10,
+            "media": 30.303030303030305
+        },
+        {
+            "time": "Vila Nova",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 10,
+            "media": 29.411764705882355
+        },
+        {
+            "time": "Botafogo (SP)",
+            "totalJogos": 33.0,
+            "jogosSemSofrerGols": 9,
+            "media": 27.27272727272727
+        },
+        {
+            "time": "Ponte Preta",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 9,
+            "media": 26.47058823529412
+        },
+        {
+            "time": "Goi\u00e1s",
+            "totalJogos": 33.0,
+            "jogosSemSofrerGols": 8,
+            "media": 24.242424242424242
+        },
+        {
+            "time": "Guarani",
+            "totalJogos": 33.0,
+            "jogosSemSofrerGols": 8,
+            "media": 24.242424242424242
+        },
+        {
+            "time": "CRB",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 7,
+            "media": 20.588235294117645
+        },
+        {
+            "time": "Ituano",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 7,
+            "media": 20.588235294117645
+        },
+        {
+            "time": "Paysandu",
+            "totalJogos": 34.0,
+            "jogosSemSofrerGols": 7,
+            "media": 20.588235294117645
+        }
+    ],
+    "golsFeitos": [
+        {
+            "time": "Cear\u00e1",
+            "totalJogos": 34.0,
+            "golsFeitos": 51,
+            "media": 1.5
+        },
+        {
+            "time": "Santos",
+            "totalJogos": 34.0,
+            "golsFeitos": 49,
+            "media": 1.4411764705882353
+        },
+        {
+            "time": "Sport Recife",
+            "totalJogos": 34.0,
+            "golsFeitos": 49,
+            "media": 1.4411764705882353
+        },
+        {
+            "time": "Goi\u00e1s",
+            "totalJogos": 33.0,
+            "golsFeitos": 45,
+            "media": 1.3636363636363635
+        },
+        {
+            "time": "Am\u00e9rica (MG)",
+            "totalJogos": 34.0,
+            "golsFeitos": 41,
+            "media": 1.2058823529411764
+        },
+        {
+            "time": "Coritiba",
+            "totalJogos": 34.0,
+            "golsFeitos": 37,
+            "media": 1.088235294117647
+        },
+        {
+            "time": "Ituano",
+            "totalJogos": 34.0,
+            "golsFeitos": 36,
+            "media": 1.0588235294117647
+        },
+        {
+            "time": "Gr\u00eamio Novorizontino",
+            "totalJogos": 33.0,
+            "golsFeitos": 35,
+            "media": 1.0606060606060606
+        },
+        {
+            "time": "Mirassol Futebol Clube",
+            "totalJogos": 34.0,
+            "golsFeitos": 35,
+            "media": 1.0294117647058822
+        },
+        {
+            "time": "Vila Nova",
+            "totalJogos": 34.0,
+            "golsFeitos": 35,
+            "media": 1.0294117647058822
+        },
+        {
+            "time": "Paysandu",
+            "totalJogos": 34.0,
+            "golsFeitos": 34,
+            "media": 1.0
+        },
+        {
+            "time": "Ponte Preta",
+            "totalJogos": 34.0,
+            "golsFeitos": 34,
+            "media": 1.0
+        },
+        {
+            "time": "CRB",
+            "totalJogos": 34.0,
+            "golsFeitos": 32,
+            "media": 0.9411764705882353
+        },
+        {
+            "time": "Guarani",
+            "totalJogos": 33.0,
+            "golsFeitos": 31,
+            "media": 0.9393939393939394
+        },
+        {
+            "time": "Chapecoense",
+            "totalJogos": 33.0,
+            "golsFeitos": 30,
+            "media": 0.9090909090909091
+        },
+        {
+            "time": "Amazonas FC",
+            "totalJogos": 33.0,
+            "golsFeitos": 29,
+            "media": 0.8787878787878788
+        },
+        {
+            "time": "Ava\u00ed",
+            "totalJogos": 34.0,
+            "golsFeitos": 29,
+            "media": 0.8529411764705882
+        },
+        {
+            "time": "Oper\u00e1rio",
+            "totalJogos": 33.0,
+            "golsFeitos": 29,
+            "media": 0.8787878787878788
+        },
+        {
+            "time": "Botafogo (SP)",
+            "totalJogos": 33.0,
+            "golsFeitos": 27,
+            "media": 0.8181818181818182
+        },
+        {
+            "time": "Brusque Futebol Clube",
+            "totalJogos": 33.0,
+            "golsFeitos": 21,
+            "media": 0.6363636363636364
+        }
+    ]
+}

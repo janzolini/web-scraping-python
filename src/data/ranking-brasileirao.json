@@ -1,0 +1,612 @@
+{
+    "totalEscanteio": [
+        {
+            "time": "Palmeiras",
+            "totalJogos": 31.0,
+            "totalEscanteios": 202,
+            "media": 6.516129032258065
+        },
+        {
+            "time": "Ath Paranaense",
+            "totalJogos": 30.0,
+            "totalEscanteios": 192,
+            "media": 6.4
+        },
+        {
+            "time": "Flamengo",
+            "totalJogos": 30.0,
+            "totalEscanteios": 181,
+            "media": 6.033333333333333
+        },
+        {
+            "time": "Botafogo (RJ)",
+            "totalJogos": 31.0,
+            "totalEscanteios": 178,
+            "media": 5.741935483870968
+        },
+        {
+            "time": "Corinthians",
+            "totalJogos": 31.0,
+            "totalEscanteios": 171,
+            "media": 5.516129032258065
+        },
+        {
+            "time": "Gr\u00eamio",
+            "totalJogos": 31.0,
+            "totalEscanteios": 171,
+            "media": 5.516129032258065
+        },
+        {
+            "time": "Cruzeiro",
+            "totalJogos": 31.0,
+            "totalEscanteios": 165,
+            "media": 5.32258064516129
+        },
+        {
+            "time": "S\u00e3o Paulo",
+            "totalJogos": 31.0,
+            "totalEscanteios": 162,
+            "media": 5.225806451612903
+        },
+        {
+            "time": "Red Bull Bragantino",
+            "totalJogos": 31.0,
+            "totalEscanteios": 152,
+            "media": 4.903225806451613
+        },
+        {
+            "time": "Internacional",
+            "totalJogos": 30.0,
+            "totalEscanteios": 148,
+            "media": 4.933333333333334
+        },
+        {
+            "time": "Bahia",
+            "totalJogos": 31.0,
+            "totalEscanteios": 145,
+            "media": 4.67741935483871
+        },
+        {
+            "time": "Fortaleza",
+            "totalJogos": 31.0,
+            "totalEscanteios": 145,
+            "media": 4.67741935483871
+        },
+        {
+            "time": "Atl\u00e9tico Mineiro",
+            "totalJogos": 30.0,
+            "totalEscanteios": 143,
+            "media": 4.766666666666667
+        },
+        {
+            "time": "Vit\u00f3ria",
+            "totalJogos": 31.0,
+            "totalEscanteios": 143,
+            "media": 4.612903225806452
+        },
+        {
+            "time": "Atl Goianiense",
+            "totalJogos": 31.0,
+            "totalEscanteios": 142,
+            "media": 4.580645161290323
+        },
+        {
+            "time": "Crici\u00fama",
+            "totalJogos": 31.0,
+            "totalEscanteios": 142,
+            "media": 4.580645161290323
+        },
+        {
+            "time": "Juventude",
+            "totalJogos": 31.0,
+            "totalEscanteios": 133,
+            "media": 4.290322580645161
+        },
+        {
+            "time": "Vasco da Gama",
+            "totalJogos": 31.0,
+            "totalEscanteios": 131,
+            "media": 4.225806451612903
+        },
+        {
+            "time": "Fluminense",
+            "totalJogos": 31.0,
+            "totalEscanteios": 128,
+            "media": 4.129032258064516
+        },
+        {
+            "time": "Cuiab\u00e1",
+            "totalJogos": 31.0,
+            "totalEscanteios": 121,
+            "media": 3.903225806451613
+        }
+    ],
+    "escanteiosSofridos": [
+        {
+            "time": "vs Fortaleza",
+            "totalJogos": 31.0,
+            "totalEscanteios": 193,
+            "media": 6.225806451612903
+        },
+        {
+            "time": "vs Red Bull Bragantino",
+            "totalJogos": 31.0,
+            "totalEscanteios": 188,
+            "media": 6.064516129032258
+        },
+        {
+            "time": "vs Juventude",
+            "totalJogos": 31.0,
+            "totalEscanteios": 185,
+            "media": 5.967741935483871
+        },
+        {
+            "time": "vs Crici\u00fama",
+            "totalJogos": 31.0,
+            "totalEscanteios": 179,
+            "media": 5.774193548387097
+        },
+        {
+            "time": "vs Corinthians",
+            "totalJogos": 31.0,
+            "totalEscanteios": 173,
+            "media": 5.580645161290323
+        },
+        {
+            "time": "vs Vit\u00f3ria",
+            "totalJogos": 31.0,
+            "totalEscanteios": 171,
+            "media": 5.516129032258065
+        },
+        {
+            "time": "vs Atl Goianiense",
+            "totalJogos": 31.0,
+            "totalEscanteios": 169,
+            "media": 5.451612903225806
+        },
+        {
+            "time": "vs Vasco da Gama",
+            "totalJogos": 31.0,
+            "totalEscanteios": 169,
+            "media": 5.451612903225806
+        },
+        {
+            "time": "vs Cuiab\u00e1",
+            "totalJogos": 31.0,
+            "totalEscanteios": 168,
+            "media": 5.419354838709677
+        },
+        {
+            "time": "vs Fluminense",
+            "totalJogos": 31.0,
+            "totalEscanteios": 164,
+            "media": 5.290322580645161
+        },
+        {
+            "time": "vs Cruzeiro",
+            "totalJogos": 31.0,
+            "totalEscanteios": 159,
+            "media": 5.129032258064516
+        },
+        {
+            "time": "vs Ath Paranaense",
+            "totalJogos": 30.0,
+            "totalEscanteios": 142,
+            "media": 4.733333333333333
+        },
+        {
+            "time": "vs Gr\u00eamio",
+            "totalJogos": 31.0,
+            "totalEscanteios": 142,
+            "media": 4.580645161290323
+        },
+        {
+            "time": "vs Atl\u00e9tico Mineiro",
+            "totalJogos": 30.0,
+            "totalEscanteios": 134,
+            "media": 4.466666666666667
+        },
+        {
+            "time": "vs Bahia",
+            "totalJogos": 31.0,
+            "totalEscanteios": 132,
+            "media": 4.258064516129032
+        },
+        {
+            "time": "vs Botafogo (RJ)",
+            "totalJogos": 31.0,
+            "totalEscanteios": 131,
+            "media": 4.225806451612903
+        },
+        {
+            "time": "vs S\u00e3o Paulo",
+            "totalJogos": 31.0,
+            "totalEscanteios": 129,
+            "media": 4.161290322580645
+        },
+        {
+            "time": "vs Internacional",
+            "totalJogos": 30.0,
+            "totalEscanteios": 128,
+            "media": 4.266666666666667
+        },
+        {
+            "time": "vs Flamengo",
+            "totalJogos": 30.0,
+            "totalEscanteios": 121,
+            "media": 4.033333333333333
+        },
+        {
+            "time": "vs Palmeiras",
+            "totalJogos": 31.0,
+            "totalEscanteios": 118,
+            "media": 3.806451612903226
+        }
+    ],
+    "golsContra": [
+        {
+            "time": "Atl Goianiense",
+            "totalJogos": 31.0,
+            "golsSofrigos": 50,
+            "media": 1.6129032258064515
+        },
+        {
+            "time": "Juventude",
+            "totalJogos": 31.0,
+            "golsSofrigos": 48,
+            "media": 1.5483870967741935
+        },
+        {
+            "time": "Atl\u00e9tico Mineiro",
+            "totalJogos": 30.0,
+            "golsSofrigos": 45,
+            "media": 1.5
+        },
+        {
+            "time": "Vit\u00f3ria",
+            "totalJogos": 31.0,
+            "golsSofrigos": 45,
+            "media": 1.4516129032258065
+        },
+        {
+            "time": "Crici\u00fama",
+            "totalJogos": 31.0,
+            "golsSofrigos": 44,
+            "media": 1.4193548387096775
+        },
+        {
+            "time": "Vasco da Gama",
+            "totalJogos": 31.0,
+            "golsSofrigos": 43,
+            "media": 1.3870967741935485
+        },
+        {
+            "time": "Cuiab\u00e1",
+            "totalJogos": 31.0,
+            "golsSofrigos": 41,
+            "media": 1.3225806451612903
+        },
+        {
+            "time": "Corinthians",
+            "totalJogos": 31.0,
+            "golsSofrigos": 40,
+            "media": 1.2903225806451613
+        },
+        {
+            "time": "Red Bull Bragantino",
+            "totalJogos": 31.0,
+            "golsSofrigos": 40,
+            "media": 1.2903225806451613
+        },
+        {
+            "time": "Gr\u00eamio",
+            "totalJogos": 31.0,
+            "golsSofrigos": 39,
+            "media": 1.2580645161290323
+        },
+        {
+            "time": "Ath Paranaense",
+            "totalJogos": 30.0,
+            "golsSofrigos": 37,
+            "media": 1.2333333333333334
+        },
+        {
+            "time": "Bahia",
+            "totalJogos": 31.0,
+            "golsSofrigos": 37,
+            "media": 1.1935483870967742
+        },
+        {
+            "time": "Flamengo",
+            "totalJogos": 30.0,
+            "golsSofrigos": 36,
+            "media": 1.2
+        },
+        {
+            "time": "Cruzeiro",
+            "totalJogos": 31.0,
+            "golsSofrigos": 33,
+            "media": 1.064516129032258
+        },
+        {
+            "time": "S\u00e3o Paulo",
+            "totalJogos": 31.0,
+            "golsSofrigos": 33,
+            "media": 1.064516129032258
+        },
+        {
+            "time": "Fluminense",
+            "totalJogos": 31.0,
+            "golsSofrigos": 32,
+            "media": 1.032258064516129
+        },
+        {
+            "time": "Fortaleza",
+            "totalJogos": 31.0,
+            "golsSofrigos": 32,
+            "media": 1.032258064516129
+        },
+        {
+            "time": "Internacional",
+            "totalJogos": 30.0,
+            "golsSofrigos": 27,
+            "media": 0.9
+        },
+        {
+            "time": "Botafogo (RJ)",
+            "totalJogos": 31.0,
+            "golsSofrigos": 26,
+            "media": 0.8387096774193549
+        },
+        {
+            "time": "Palmeiras",
+            "totalJogos": 31.0,
+            "golsSofrigos": 25,
+            "media": 0.8064516129032258
+        }
+    ],
+    "jogosSemSofrerGols": [
+        {
+            "time": "Botafogo (RJ)",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 14,
+            "media": 45.16129032258064
+        },
+        {
+            "time": "Palmeiras",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 14,
+            "media": 45.16129032258064
+        },
+        {
+            "time": "Cruzeiro",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 11,
+            "media": 35.483870967741936
+        },
+        {
+            "time": "S\u00e3o Paulo",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 11,
+            "media": 35.483870967741936
+        },
+        {
+            "time": "Fluminense",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 10,
+            "media": 32.25806451612903
+        },
+        {
+            "time": "Bahia",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 9,
+            "media": 29.03225806451613
+        },
+        {
+            "time": "Fortaleza",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 9,
+            "media": 29.03225806451613
+        },
+        {
+            "time": "Internacional",
+            "totalJogos": 30.0,
+            "jogosSemSofrerGols": 9,
+            "media": 30.0
+        },
+        {
+            "time": "Cuiab\u00e1",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 8,
+            "media": 25.806451612903224
+        },
+        {
+            "time": "Gr\u00eamio",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 8,
+            "media": 25.806451612903224
+        },
+        {
+            "time": "Ath Paranaense",
+            "totalJogos": 30.0,
+            "jogosSemSofrerGols": 7,
+            "media": 23.333333333333332
+        },
+        {
+            "time": "Corinthians",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 7,
+            "media": 22.58064516129032
+        },
+        {
+            "time": "Vasco da Gama",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 7,
+            "media": 22.58064516129032
+        },
+        {
+            "time": "Vit\u00f3ria",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 7,
+            "media": 22.58064516129032
+        },
+        {
+            "time": "Atl\u00e9tico Mineiro",
+            "totalJogos": 30.0,
+            "jogosSemSofrerGols": 6,
+            "media": 20.0
+        },
+        {
+            "time": "Flamengo",
+            "totalJogos": 30.0,
+            "jogosSemSofrerGols": 6,
+            "media": 20.0
+        },
+        {
+            "time": "Juventude",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 6,
+            "media": 19.35483870967742
+        },
+        {
+            "time": "Atl Goianiense",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 5,
+            "media": 16.129032258064516
+        },
+        {
+            "time": "Crici\u00fama",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 5,
+            "media": 16.129032258064516
+        },
+        {
+            "time": "Red Bull Bragantino",
+            "totalJogos": 31.0,
+            "jogosSemSofrerGols": 4,
+            "media": 12.903225806451612
+        }
+    ],
+    "golsFeitos": [
+        {
+            "time": "Palmeiras",
+            "totalJogos": 31.0,
+            "golsFeitos": 51,
+            "media": 1.6451612903225807
+        },
+        {
+            "time": "Botafogo (RJ)",
+            "totalJogos": 31.0,
+            "golsFeitos": 49,
+            "media": 1.5806451612903225
+        },
+        {
+            "time": "Flamengo",
+            "totalJogos": 30.0,
+            "golsFeitos": 48,
+            "media": 1.6
+        },
+        {
+            "time": "Atl\u00e9tico Mineiro",
+            "totalJogos": 30.0,
+            "golsFeitos": 42,
+            "media": 1.4
+        },
+        {
+            "time": "Bahia",
+            "totalJogos": 31.0,
+            "golsFeitos": 42,
+            "media": 1.3548387096774193
+        },
+        {
+            "time": "S\u00e3o Paulo",
+            "totalJogos": 31.0,
+            "golsFeitos": 41,
+            "media": 1.3225806451612903
+        },
+        {
+            "time": "Internacional",
+            "totalJogos": 30.0,
+            "golsFeitos": 40,
+            "media": 1.3333333333333333
+        },
+        {
+            "time": "Fortaleza",
+            "totalJogos": 31.0,
+            "golsFeitos": 39,
+            "media": 1.2580645161290323
+        },
+        {
+            "time": "Crici\u00fama",
+            "totalJogos": 31.0,
+            "golsFeitos": 38,
+            "media": 1.2258064516129032
+        },
+        {
+            "time": "Juventude",
+            "totalJogos": 31.0,
+            "golsFeitos": 38,
+            "media": 1.2258064516129032
+        },
+        {
+            "time": "Cruzeiro",
+            "totalJogos": 31.0,
+            "golsFeitos": 36,
+            "media": 1.1612903225806452
+        },
+        {
+            "time": "Gr\u00eamio",
+            "totalJogos": 31.0,
+            "golsFeitos": 36,
+            "media": 1.1612903225806452
+        },
+        {
+            "time": "Corinthians",
+            "totalJogos": 31.0,
+            "golsFeitos": 35,
+            "media": 1.1290322580645162
+        },
+        {
+            "time": "Vasco da Gama",
+            "totalJogos": 31.0,
+            "golsFeitos": 35,
+            "media": 1.1290322580645162
+        },
+        {
+            "time": "Red Bull Bragantino",
+            "totalJogos": 31.0,
+            "golsFeitos": 34,
+            "media": 1.096774193548387
+        },
+        {
+            "time": "Vit\u00f3ria",
+            "totalJogos": 31.0,
+            "golsFeitos": 34,
+            "media": 1.096774193548387
+        },
+        {
+            "time": "Ath Paranaense",
+            "totalJogos": 30.0,
+            "golsFeitos": 31,
+            "media": 1.0333333333333334
+        },
+        {
+            "time": "Cuiab\u00e1",
+            "totalJogos": 31.0,
+            "golsFeitos": 24,
+            "media": 0.7741935483870968
+        },
+        {
+            "time": "Fluminense",
+            "totalJogos": 31.0,
+            "golsFeitos": 24,
+            "media": 0.7741935483870968
+        },
+        {
+            "time": "Atl Goianiense",
+            "totalJogos": 31.0,
+            "golsFeitos": 22,
+            "media": 0.7096774193548387
+        }
+    ]
+}

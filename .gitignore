@@ -1,0 +1,4 @@
+# ignore directory .vscode/ and venv/
+.vscode/
+venv/
+src/ia_prompt.py
